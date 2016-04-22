@@ -569,9 +569,10 @@ table.listing {
 
 table.listing > thead h3 {
     font-size: 22px;
-    padding: 10px 0px 10px;
+    padding: 10px 30px 10px 0px;
     font-weight: 300;
     margin-top: 0px;
+    display: inline;
 }
 
 table.listing > thead td {
